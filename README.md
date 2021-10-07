@@ -30,5 +30,3 @@ No método acima a variável redisTemplate é uma instância de `StringRedisTemp
 Estamos usando o StringRedisTemplate` para encontrar todas as key's.
 
 > Obs: o valor 'NAME' que está no parâmentro de entrada é o mesmo passado no 'cacheNames' do `@Cacheable`
-
-Testes
